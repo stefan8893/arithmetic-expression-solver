@@ -2,6 +2,8 @@
 
 A small .NET command-line application that evaluates arithmetic expressions.
 
+This project is intended as a learning exercise to understand how expression parsers work. The focus is on parsing and evaluating arithmetic expressions in a small, understandable implementation before applying the same concepts to more advanced scenarios such as parsing filter predicates and translating them into C# lambda expressions.
+
 ## Usage
 
 Run the application with an expression as its argument:
